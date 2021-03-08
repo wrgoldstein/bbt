@@ -1,0 +1,2 @@
+{{ config() }}
+select 100
